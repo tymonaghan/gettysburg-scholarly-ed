@@ -8,7 +8,7 @@ List of sources
 
 [LOC "web guide" for Gettysburg Address](https://www.loc.gov/rr/program/bib/ourdocs/Gettysburg.html)
 
-["Gettysburg Address: Hay Copy" at LOC.gov](https://www.loc.gov/item/mal4356600/)
+["Gettysburg Address: Hay Draft" at LOC.gov](https://www.loc.gov/item/mal4356600/)
 
 ["Gettysburg Address: Nicolay Copy" at LOC.gov](https://www.loc.gov/item/mal4356500/)
 
