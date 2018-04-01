@@ -19,3 +19,14 @@ List of sources
 [LOC.gov photo of inscription on Lincoln Memorial](https://www.loc.gov/item/93510165/)
 
 [NYT archive Nov 20, 1863 front page with "President Lincoln's Address]THE HEROES OF JULY. (1863, Nov 20). New York Times (1857-1922) Retrieved from (http://flagship.luc.edu/login?url=https://search-proquest-com.flagship.luc.edu/docview/91768791?accountid=12163)
+
+[Bancroft copy at Cornell University](http://rmc.library.cornell.edu/gettysburg150/exhibition/bancroft/index.html)
+
+[Bliss copy at Smithsonian Institute](http://americanhistory.si.edu/documentsgallery/exhibitions/gettysburg_address_1.html)
+
+[Associated Press - must reconstruct from emendations in footnotes](http://www.bartleby.com/268/9/26.html#txt2)
+
+[Everett copy images on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Everettcopy-1.jpg) [Appear to match Gettysburg Daily photos](http://i.gettysburgdaily.com/imgs/Lincoln092808/Lincoln09280809.jpg)
+
+[PDF pages converted to JPG files with this tool](https://www.freepdfconvert.com/pdf-jpg)
+
